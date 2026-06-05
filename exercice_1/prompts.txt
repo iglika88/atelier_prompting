@@ -1,0 +1,19 @@
+ZERO-SHOT: 
+
+Veuillez résumer l'article suivant en trois phrases. Ne fournissez aucun autre élément dans votre réponse.
+
+{collez l'article ici}
+
+
+
+ONE-SHOT: 
+
+Veuillez résumer l'article suivant en trois phrases. Ne fournissez aucun autre élément dans votre réponse.
+
+{collez l'article ici}
+
+Voici un exemple d’un autre article accompagné d’un bon résumé.
+
+{collez article_one_shot ici}
+
+{collez résumé_one_shot ici}
